@@ -22,6 +22,16 @@
     width: 18vh;
 }
 
+.buttonGroupSent{
+    margin-left:15px;
+    background-color: #800000;
+    border:0px;
+    color: #fafaf9;
+    height: 55px;
+    width: 18vh;
+    cursor:context-menu;
+}
+
 .buttonGroup:hover{
     background-color: #A52A2A;
     border:0px;

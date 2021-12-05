@@ -126,7 +126,6 @@
         top:-20px;
     }
     .buttonGroup{
-        margin-left:15px;
         border:0px;
         height: 58px;
         padding-bottom:4px;
@@ -138,7 +137,6 @@
     }
     
     .buttonGroup:hover{
-        margin-left:15px;
         border:0px;
         height: 58px;
         padding-bottom:4px;

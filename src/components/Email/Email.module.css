@@ -14,13 +14,14 @@
 
 .buttonGroup{
     background-color: #fafaf9;
-    margin-left:15px;
     background-color: #C22929;
     border:0px;
     color: #fafaf9;
     height: 55px;
     width: 18vh;
 }
+/*margin-left:15px;
+*/    
 
 .buttonGroupSent{
     margin-left:15px;
